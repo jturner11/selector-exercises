@@ -1,0 +1,15 @@
+{
+  "name": "selector-exercises",
+  "version": "1.0.0",
+  "description": "Functional programming concepts explained by writing selectors to make tests pass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --bail"
+  },
+  "keywords": ["redux", "selectors", "exercises"],
+  "author": "Dan Scotton",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
