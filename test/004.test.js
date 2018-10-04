@@ -1,3 +1,6 @@
+const { getBasket } = require('../');
+
+
 describe('JT Vits', () => {
     describe('getBasket', () => {
         it('returns a list of products in the basket with their subtotals', () => {

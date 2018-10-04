@@ -1,3 +1,6 @@
+const { getProducts } = require('../')
+
+
 describe('JT Vits', () => {
     describe('getProducts', () => {
         it('returns a list of products (map)', () => {
